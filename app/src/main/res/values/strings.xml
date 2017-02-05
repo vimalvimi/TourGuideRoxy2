@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tour Guide Roxy</string>
+    <string name="string_sample">LOCATION location</string>
+    <string name="string_sample2">Event EVENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="taj">Taj Mahal</string>
+    <string name="golden">Golden Temple</string>
+    <string name="hawa">Hawa Mahal</string>
+    <string name="igate">India Gate</string>
+    <string name="ltemple">Lotus Temple</string>
+    <string name="minar">Qutab Minar</string>
+    <string name="mysorepalace">Mysore Palace</string>
+
+    <string name="imagica">Imagica</string>
+    <string name="hotairbaloon">Hot Air Balloon</string>
+    <string name="kayaking">Kayaking</string>
+    <string name="sunidhi">Sunidhi Chauhan</string>
+    <string name="yoga">Yoga</string>
+
+    <string name="jalebi">Jalebi</string>
+    <string name="lassi">Lassi</string>
+    <string name="naan">Butter Naan</string>
+    <string name="dhokla">Dhokla</string>
+    <string name="bhelpuri">Bhelpuri</string>
+    <string name="dosa">Dosa</string>
+    <string name="samosa">Samosa</string>
+
+    <string name="andaman">Andaman and Nicobar Islands</string>
+    <string name="andhra">Andhra Pradesh</string>
+    <string name="arunacha">Arunachal Pradesh</string>
+    <string name="assam">Assam</string>
+    <string name="bihar">Bihar</string>
+    <string name="chandigarh">Chandigarh</string>
+    <string name="chhattisgarh">Chhattisgarh</string>
+    <string name="dadra">Dadra and Nagar Haveli</string>
+    <string name="daman">Daman and Diu</string>
+    <string name="delhi">Delhi</string>
+    <string name="goa">Goa</string>
+    <string name="gujarat">Gujarat</string>
+    <string name="haryana">Haryana</string>
+    <string name="himachal">Himachal Pradesh</string>
+    <string name="jammu">Jammu and Kashmir</string>
+    <string name="jharkhand">Jharkhand</string>
+    <string name="karnataka">Karnataka</string>
+    <string name="kerala">Kerala</string>
+    <string name="lakshadweep">Lakshadweep</string>
+    <string name="madhya">Madhya Pradesh</string>
+    <string name="Maharashtra">Maharashtra</string>
+    <string name="manipur">Manipur</string>
+    <string name="meghalaya">Meghalaya</string>
+    <string name="mizoram">Mizoram</string>
+    <string name="nagaland">Nagaland</string>
+    <string name="odisha">Odisha</string>
+    <string name="puducherry">Puducherry</string>
+    <string name="punjab">Punjab</string>
+    <string name="rajasthan">Rajasthan</string>
+    <string name="sikkim">Sikkim</string>
+    <string name="tamil">Tamil Nadu</string>
+    <string name="telangana">Telangana</string>
+    <string name="tripura">Tripura</string>
+    <string name="up">Uttar Pradesh</string>
+    <string name="uk">Uttarakhand</string>
+    <string name="westbengal">West Bengal</string>
+
+</resources>
